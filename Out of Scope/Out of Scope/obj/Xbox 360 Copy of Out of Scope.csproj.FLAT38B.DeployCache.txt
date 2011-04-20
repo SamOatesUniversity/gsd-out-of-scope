@@ -1,0 +1,151 @@
+b470cdf3b0b74feda4ac8961dd381204
+0
+FLAT38B
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\
+129475289680000000
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\GameThumbnail.png
+2011-04-15T13:14:36.0000000Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Out of Scope.exe
+2011-04-17T15:33:43.7253478Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\default_font.xnb
+2011-04-17T15:32:41.3702541Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\lines.xnb
+2011-04-17T15:33:43.4703410Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\scope-hd.xnb
+2011-04-17T15:32:36.8702478Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\scope-sd.xnb
+2011-04-17T15:32:37.7652490Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\city.xnb
+2011-04-17T15:32:53.2202707Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\concrete_day_0.xnb
+2011-04-17T15:33:43.3453409Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\curb_day_0.xnb
+2011-04-17T15:33:41.6253384Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_01_floors5_tiles8_day_0.xnb
+2011-04-17T15:33:34.9253291Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_02_floors5_tiles7_day_0.xnb
+2011-04-17T15:33:39.9703361Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_03_floors5_tiles5_day_0.xnb
+2011-04-17T15:33:40.9803375Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_04_floors5_tiles13_day_0.xnb
+2011-04-17T15:33:19.7453078Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_05_floors7_tiles17_day_0.xnb
+2011-04-17T15:33:28.3253198Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_06_floors7_tiles9_day_0.xnb
+2011-04-17T15:33:18.2303057Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_07_floors4_tiles7_day_0.xnb
+2011-04-17T15:33:20.7253092Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_08_floors5_tiles5_day_0.xnb
+2011-04-17T15:33:27.3103184Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_09_floors7_tiles4_day_0.xnb
+2011-04-17T15:33:13.0952985Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_10_floors6_tiles9_day_0.xnb
+2011-04-17T15:33:38.9503347Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_11_floors5_tiles9_day_0.xnb
+2011-04-17T15:33:30.8603234Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_12_floors5_tiles9_day_0.xnb
+2011-04-17T15:33:14.0752999Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_13_floors5_tiles7_day_0.xnb
+2011-04-17T15:33:37.8453332Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_14_floors6_tiles9_day_0.xnb
+2011-04-17T15:33:33.9303277Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_15_floors3_tiles11_day_0.xnb
+2011-04-17T15:33:17.1803042Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_16_floors4_tiles10_day_0.xnb
+2011-04-17T15:33:09.6702937Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_17_floors4_tiles9_day_0.xnb
+2011-04-17T15:33:06.9052898Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_18_floors3_tiles13_day_0.xnb
+2011-04-17T15:32:54.2302721Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_19_floors5_tiles12_day_0.xnb
+2011-04-17T15:33:35.9053304Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_20_floors6_tiles12_day_0.xnb
+2011-04-17T15:33:12.0802971Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_21_floors5_tiles9_day_0.xnb
+2011-04-17T15:33:36.8503318Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_22_floors60_tiles33_day_0.xnb
+2011-04-17T15:33:16.1403028Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_23_floors60_tiles28_day_0.xnb
+2011-04-17T15:32:58.3502779Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_24_floors60_tiles24_day_0.xnb
+2011-04-17T15:33:29.8203219Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_25_floors60_tiles12_day_0.xnb
+2011-04-17T15:33:26.3303170Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_26_floors60_tiles10_day_0.xnb
+2011-04-17T15:33:25.3453157Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_27_floors60_tiles6_day_0.xnb
+2011-04-17T15:33:03.4252850Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_28_floors60_tiles16_day_0.xnb
+2011-04-17T15:33:32.9153263Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\fac_29_floors60_tiles9_day_0.xnb
+2011-04-17T15:33:15.1303014Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof10_day_0.xnb
+2011-04-17T15:33:08.9802927Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof1_day_0.xnb
+2011-04-17T15:32:56.2052749Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof2_day_0.xnb
+2011-04-17T15:33:05.4052877Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof3_day_0.xnb
+2011-04-17T15:33:01.4252822Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof4_day_0.xnb
+2011-04-17T15:33:04.4002863Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof5_day_0.xnb
+2011-04-17T15:33:00.3552807Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof6_day_0.xnb
+2011-04-17T15:33:10.6252950Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof7_day_0.xnb
+2011-04-17T15:33:07.9852914Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof8_day_0.xnb
+2011-04-17T15:32:55.2352735Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\flatroof9_day_0.xnb
+2011-04-17T15:32:59.3352792Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\parkingLots1_day_0.xnb
+2011-04-17T15:33:28.8103205Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\parkingLots2_day_0.xnb
+2011-04-17T15:33:11.1202957Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\parkingLots3_day_0.xnb
+2011-04-17T15:33:02.4352836Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\parkingLots4_day_0.xnb
+2011-04-17T15:33:01.9352829Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\parkingLots5_day_0.xnb
+2011-04-17T15:33:05.8702884Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\pavement_day_0.xnb
+2011-04-17T15:33:41.9553389Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\road_day_0.xnb
+2011-04-17T15:33:42.3803395Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.1_day_0.xnb
+2011-04-17T15:33:23.4503130Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.2_day_0.xnb
+2011-04-17T15:33:31.8803248Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.3_day_0.xnb
+2011-04-17T15:33:24.3003142Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.4_day_0.xnb
+2011-04-17T15:33:21.2253099Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.5_day_0.xnb
+2011-04-17T15:33:22.9203123Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.6_day_0.xnb
+2011-04-17T15:33:31.3753241Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.7_day_0.xnb
+2011-04-17T15:33:18.7303064Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.8_day_0.xnb
+2011-04-17T15:32:56.7002756Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\rooftile.9_day_0.xnb
+2011-04-17T15:33:22.0653111Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_11_day_0.xnb
+2011-04-17T15:33:22.4053115Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_1_day_0.xnb
+2011-04-17T15:33:41.3203380Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_2_day_0.xnb
+2011-04-17T15:32:57.0502760Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_6_day_0.xnb
+2011-04-17T15:33:21.5653104Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_8_day_0.xnb
+2011-04-17T15:33:23.8053135Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\city\yard_9_day_0.xnb
+2011-04-17T15:32:57.4002765Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\skybox\skybox_fx.xnb
+2011-04-17T15:33:43.4653410Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\skybox\skysphere.xnb
+2011-04-17T15:33:43.3903409Z
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of Scope\bin\Xbox 360\Debug\Content\skybox\skytexture.xnb
+2011-04-17T15:32:41.1952538Z
