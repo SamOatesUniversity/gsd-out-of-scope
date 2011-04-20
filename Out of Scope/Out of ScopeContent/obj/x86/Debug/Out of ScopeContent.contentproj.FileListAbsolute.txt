@@ -1,0 +1,3 @@
+c:\users\sam\documents\visual studio 2010\Projects\Out of Scope\Out of Scope\Out of ScopeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\University Work\UNI Year Two\FINAL PROJECTS\Out of Scope\Out of Scope\Out of ScopeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Out of Scope\Out of Scope\Out of Scope\Out of ScopeContent\obj\x86\Debug\ResolveAssemblyReference.cache
