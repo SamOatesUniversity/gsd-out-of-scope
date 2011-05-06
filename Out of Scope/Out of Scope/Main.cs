@@ -22,8 +22,6 @@ namespace Out_of_Scope
         Entity_SkyBox m_skybox;
         Player m_player;
 
-        Graphics.Entity.Text m_camera_debug;
-
         public Main()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -51,10 +49,13 @@ namespace Out_of_Scope
             m_vis.Init(GraphicsDevice);
 
             Enemy_Container.Init(m_world, Content);
+
+            Graphics.Entity.Text debug_text = new Graphics.Entity.Text();
+            debug_text.Init(Content.Load<SpriteFont>("default_font"));
             
             Graphics.Entity.Sprite hud = new Graphics.Entity.Sprite();
             hud.Init(Content.Load<Texture2D>("scope-hd"), GraphicsDevice.Viewport.Bounds);
-            m_player = new Player(hud);
+            m_player = new Player(hud, debug_text);
             m_world.AddEntity(m_player);
 
             BasicEffect city_effect = new BasicEffect(GraphicsDevice);
@@ -77,9 +78,9 @@ namespace Out_of_Scope
             m_skybox = new Entity_SkyBox(skybox);
             m_world.AddEntity(m_skybox);
 
-            m_camera_debug = new Graphics.Entity.Text();
-            m_camera_debug.Init(Content.Load<SpriteFont>("default_font"));
-            m_vis.AddEntity(m_camera_debug);
+#if DEBUG
+            m_vis.AddEntity(debug_text);
+#endif
         }
 
         protected override void UnloadContent()
@@ -91,8 +92,6 @@ namespace Out_of_Scope
             if(Input.Quit) this.Exit();
 
             m_world.Update(gameTime, GraphicsDevice);
-
-            m_camera_debug.text = Camera.position.ToString();
 
             if(this.IsActive)Input.Update();
             base.Update(gameTime);

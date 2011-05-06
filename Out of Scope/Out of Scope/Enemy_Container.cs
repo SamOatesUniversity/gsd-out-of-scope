@@ -21,7 +21,9 @@ namespace Out_of_Scope
                 Graphics.Entity.Model model = new Graphics.Entity.Model();
                 model.Init(content.Load<Model>("enemy/enemy"));
                 Entity_Enemy new_enemy = new Entity_Enemy(model);
-                new_enemy.position = GamePlay.enemy_position(i);
+                new_enemy.position = GamePlay.get_enemy(i).Position;
+                new_enemy.rotation = GamePlay.get_enemy(i).Rotation;
+                new_enemy.waypoint = GamePlay.get_enemy(i).WayPoint;
                 m_enemy.Add(new_enemy);
                 world.AddEntity(new_enemy);
             }
