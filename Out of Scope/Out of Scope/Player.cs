@@ -10,14 +10,15 @@ namespace Out_of_Scope
 {
     class Player : Sprite
     {
-        
+        Graphics.Entity.Text m_debug_text;
 
-        public Player(Graphics.Entity.Sprite hud)
+        public Player(Graphics.Entity.Sprite hud, Graphics.Entity.Text debug_text)
         {
             m_sprite = hud;
             m_position = Vector2.Zero;
             m_scale = Vector2.One;
             m_rotation = 0.0f;
+            m_debug_text = debug_text;
 
             Random rand = new Random();
 
@@ -33,22 +34,33 @@ namespace Out_of_Scope
             if (Input.Left) Camera.Move(new Vector3(-4, 0, 0));
             if (Input.Right) Camera.Move(new Vector3(4, 0, 0));
 #endif
-
-            Camera.Turn( new Vector3( (Input.Y * 0.01f) + ( (float)Math.Sin( time.TotalGameTime.TotalMilliseconds * 0.001f ) * 0.001f ), Input.X * 0.01f, 0.0f) );
+            float offset = ( (float)Math.Sin( time.TotalGameTime.TotalMilliseconds * 0.001f ) * 0.001f );
+#if DEBUG
+            offset = 0.0f;
+#endif
+            Camera.Turn(new Vector3((Input.Y * 0.01f) + offset, Input.X * 0.01f, 0.0f));
 
             Camera.fov = Camera.fov + ( Input.Zoom * -0.017f );
 
-            if (Input.Fire)
+            m_debug_text.text = "Camera Position : " + Camera.position.ToString() + 
+                "\nCamera Rotation : " + Camera.rotation.ToString();
+            
+            List<Entity_Enemy> list = Enemy_Container.enemies();
+            for (int i = 0; i < list.Count; i++)
             {
-                List<Entity_Enemy> list = Enemy_Container.enemies();
-                for (int i = 0; i < list.Count; i++)
+                if (Camera.CastBulletRay(list[i], graphics) != null)
                 {
-                    if (Camera.CastBulletRay(list[i], graphics) != null)
+                    if (Input.Fire)
                     {
                         list[i].Kill();
                     }
+
+                    m_debug_text.text += "\nEnemy Id : " + i 
+                        + "\nPosition : " + list[i].position
+                        + "\nRotation : " + list[i].rotation;
                 }
             }
+            
 
         }
     }
