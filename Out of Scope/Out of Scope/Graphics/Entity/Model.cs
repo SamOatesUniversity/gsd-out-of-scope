@@ -112,6 +112,7 @@ namespace Out_of_Scope.Graphics.Entity
             }
         }
 
+        //Keiths code edited... to take world xforms into account
         protected BoundingBox CalculateBoundingBox(Matrix[] transforms, Matrix world)
         {
 

@@ -19,15 +19,17 @@ namespace Out_of_Scope
         private static InputType m_input_type;
         private static Vector3 m_old_mouse_position;
         private static bool m_mouse_locked, m_tab_down;
+        private static Vector2 m_xbox_actual_xy;
         private static Viewport m_viewport;
 
         public static void Init(Viewport viewport)
         {
             Update();
-            m_old_mouse_position = Vector3.Zero;
+            m_old_mouse_position = Vector3.Zero;        
             m_mouse_locked = true;
             m_tab_down = false;
             m_viewport = viewport;
+            m_xbox_actual_xy = new Vector2((int)(m_viewport.Width * 0.5f), (int)(m_viewport.Height * 0.5f));
             Mouse.SetPosition((int)(m_viewport.Width * 0.5f), (int)(m_viewport.Height * 0.5f));
         }
 
@@ -133,6 +135,46 @@ namespace Out_of_Scope
             }
         }
 
+        public static float ActualX
+        {
+            get
+            {
+                switch (m_input_type)
+                {
+                    case InputType.keyboard:
+                        if (m_mouse_locked)
+                        {
+                            return Mouse.GetState().X;
+                        }
+                        break;
+                    case InputType.controller:
+                        m_xbox_actual_xy.X += (GamePad.GetState(PlayerIndex.One).ThumbSticks.Right.X * 4.0f);
+                        return m_xbox_actual_xy.X;
+                }
+                return 0.0f;
+            }
+        }
+
+        public static float ActualY
+        {
+            get
+            {
+                switch (m_input_type)
+                {
+                    case InputType.keyboard:
+                        if (m_mouse_locked)
+                        {
+                            return Mouse.GetState().Y;
+                        }
+                        break;
+                    case InputType.controller:
+                        m_xbox_actual_xy.Y -= (GamePad.GetState(PlayerIndex.One).ThumbSticks.Right.Y * 4.0f);
+                        return m_xbox_actual_xy.Y;
+                }
+                return 0.0f;
+            }
+        }
+
         public static float X
         {
             get
@@ -205,6 +247,25 @@ namespace Out_of_Scope
                         return GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.Y;
                 }
                 return 0.0f;
+            }
+        }
+
+        public static bool AnyKey
+        {
+            get
+            {
+                switch (m_input_type)
+                {
+                    case InputType.keyboard:
+                        return Keyboard.GetState().GetPressedKeys().Count<Keys>() > 0;
+                    case InputType.controller:
+                        return GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.A) ||
+                            GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.B) ||
+                            GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.X) ||
+                            GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.Y) ||
+                            GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.Start);
+                }
+                return false;
             }
         }
     }

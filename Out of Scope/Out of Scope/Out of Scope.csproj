@@ -110,8 +110,10 @@
     <Compile Include="GamePlay.cs" />
     <Compile Include="Enemy_Container.cs" />
     <Compile Include="Graphics\Debug\BoundingBox.cs" />
+    <Compile Include="Graphics\Entity\Billboard.cs" />
     <Compile Include="Graphics\Entity\Model.cs" />
     <Compile Include="Graphics\Entity\SkyBox.cs" />
+    <Compile Include="MenuController.cs" />
     <Compile Include="Misc\Camera.cs" />
     <Compile Include="Misc\Input.cs" />
     <Compile Include="Player.cs" />
@@ -124,6 +126,7 @@
     <Compile Include="Graphics\Visualisation.cs" />
     <Compile Include="World\Entity.cs" />
     <Compile Include="World\Entity\Entity_Enemy.cs" />
+    <Compile Include="World\Entity\Entity_Explosion.cs" />
     <Compile Include="World\Entity\Entity_SkyBox.cs" />
     <Compile Include="World\Entity\Entity_City.cs" />
     <Compile Include="World\Sprite.cs" />
