@@ -66,11 +66,11 @@ namespace Out_of_Scope.Graphics.Entity
             device.RasterizerState = rs;
         }
 
-        //public Vector2 position
-        //{
-        //    get { return m_position; }
-        //    set { position = value; }
-        //}
+        public Vector2 position
+        {
+            get { return m_position; }
+            set { m_position = value; }
+        }
 
         public String text
         {
@@ -78,11 +78,11 @@ namespace Out_of_Scope.Graphics.Entity
             set { m_text = value; }
         }
 
-        //public Color colour
-        //{
-        //    get { return m_colour; }
-        //    set { m_colour = value; }
-        //}
+        public Color colour
+        {
+            get { return m_colour; }
+            set { m_colour = value; }
+        }
 
         public SpriteFont font
         {

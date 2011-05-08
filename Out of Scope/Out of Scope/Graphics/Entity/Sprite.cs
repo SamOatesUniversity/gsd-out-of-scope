@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace Out_of_Scope.Graphics.Entity
 {
-    class Sprite
+    class Sprite : Graphics.GfxEntity
     {
         private Texture2D m_texture;
         private Rectangle m_dest;
@@ -44,7 +44,7 @@ namespace Out_of_Scope.Graphics.Entity
             m_colour = colour;
         }
 
-        public virtual void Draw(SpriteBatch spriteBatch, GraphicsDevice device)
+        public override void Draw(SpriteBatch spriteBatch, GraphicsDevice device)
         {
             spriteBatch.Begin();
 

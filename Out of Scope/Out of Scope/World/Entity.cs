@@ -14,9 +14,13 @@ namespace Out_of_Scope
         protected Graphics.Entity.Model m_model;
         protected Vector3 m_position, m_rotation, m_scale;
 
-        public virtual void update(Visualisation vis, GameTime time, GraphicsDevice graphics)
+        public virtual void update(Visualisation vis, GameTime time, GraphicsDevice graphics, GameState gamestate)
         {
-
+            m_model.position = m_position;
+            m_model.rotation = m_rotation;
+            m_model.scale = m_scale;
+            m_model.view = Camera.LookAt();
+            m_model.projection = Camera.Projection(graphics);
         }
 
         public Graphics.Entity.Model model

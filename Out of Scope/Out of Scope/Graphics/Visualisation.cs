@@ -47,12 +47,14 @@ namespace Out_of_Scope
 
             foreach (Graphics.GfxEntity entity in m_entity)
             {
-                entity.Draw(m_sprite_batch, m_graphics_device);
+                if( entity.Visible )
+                    entity.Draw(m_sprite_batch, m_graphics_device);
             }
 
             foreach (Graphics.Entity.Sprite sprite in m_sprite)
             {
-                sprite.Draw(m_sprite_batch, m_graphics_device);
+                if (sprite.Visible)
+                    sprite.Draw(m_sprite_batch, m_graphics_device);
             }
         }
     }

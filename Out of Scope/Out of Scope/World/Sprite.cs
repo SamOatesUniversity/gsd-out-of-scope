@@ -15,7 +15,7 @@ namespace Out_of_Scope
         protected Vector2 m_position, m_scale;
         protected float m_rotation;
 
-        public virtual void update(Visualisation vis, GameTime time, GraphicsDevice graphics)
+        public virtual void update(Visualisation vis, GameTime time, GraphicsDevice graphics, GameState gamestate)
         {
 
         }

@@ -31,15 +31,15 @@ namespace Out_of_Scope
             m_sprite.Add(entity);
         }
 
-        public void Update(GameTime time, GraphicsDevice graphics)
+        public void Update(GameTime time, GraphicsDevice graphics, GameState gamestate)
         {
             foreach (Sprite entity in m_sprite)
             {
-                entity.update(m_vis, time, graphics);
+                entity.update(m_vis, time, graphics, gamestate);
             }
             foreach (Entity entity in m_entity)
             {
-                entity.update(m_vis, time, graphics);
+                entity.update(m_vis, time, graphics, gamestate);
             }
         }
     }
